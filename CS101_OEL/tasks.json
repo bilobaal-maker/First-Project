@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "CS101",
+        "completed": false,
+        "priority": 4,
+        "category": "Course",
+        "deadline": "2025-12-20",
+        "points_awarded": false,
+        "time_spent": 0,
+        "timer_running": false,
+        "start_time": null
+    }
+]
